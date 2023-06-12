@@ -1,0 +1,40 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 38px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/015/234/519/non_2x/felt-green-soft-rough-textile-material-background-texture-close-up-poker-table-tennis-ball-table-cloth-empty-green-fabric-background-free-photo.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 70px;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 300px;
+  font-size: 38px;
+  background-color: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+}
